@@ -1,0 +1,11 @@
+C:\Users\mberk\source\repos\p18PetrolSistemi\p18PetrolSistemi\bin\Debug\p18PetrolSistemi.exe.config
+C:\Users\mberk\source\repos\p18PetrolSistemi\p18PetrolSistemi\bin\Debug\p18PetrolSistemi.exe
+C:\Users\mberk\source\repos\p18PetrolSistemi\p18PetrolSistemi\bin\Debug\p18PetrolSistemi.pdb
+C:\Users\mberk\source\repos\p18PetrolSistemi\p18PetrolSistemi\obj\Debug\p18PetrolSistemi.csproj.AssemblyReference.cache
+C:\Users\mberk\source\repos\p18PetrolSistemi\p18PetrolSistemi\obj\Debug\p18PetrolSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\mberk\source\repos\p18PetrolSistemi\p18PetrolSistemi\obj\Debug\p18PetrolSistemi.Form1.resources
+C:\Users\mberk\source\repos\p18PetrolSistemi\p18PetrolSistemi\obj\Debug\p18PetrolSistemi.Properties.Resources.resources
+C:\Users\mberk\source\repos\p18PetrolSistemi\p18PetrolSistemi\obj\Debug\p18PetrolSistemi.csproj.GenerateResource.cache
+C:\Users\mberk\source\repos\p18PetrolSistemi\p18PetrolSistemi\obj\Debug\p18PetrolSistemi.csproj.CoreCompileInputs.cache
+C:\Users\mberk\source\repos\p18PetrolSistemi\p18PetrolSistemi\obj\Debug\p18PetrolSistemi.exe
+C:\Users\mberk\source\repos\p18PetrolSistemi\p18PetrolSistemi\obj\Debug\p18PetrolSistemi.pdb
